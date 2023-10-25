@@ -20,6 +20,7 @@ Create a Django website with five users. Two users are to be staff users (includ
  Setting the first name and last name for all users
 
 # output:
-![Uploading admin user.png…]()
+![admin user](https://github.com/KAMALESHNITHYA/ODD2023-WT-Ex-02-Admin/assets/145743119/61dccd28-e46a-48fe-aa74-796aa5861766)
+
 # Result:
 Created successfully.
